@@ -2,10 +2,10 @@ package main
 
 import (
 	"encoding/json"
-	"free/user"
 	"github.com/gorilla/mux"
 	"io"
 	"net/http"
+	"study-meeting-go-php/user"
 )
 
 func main() {
